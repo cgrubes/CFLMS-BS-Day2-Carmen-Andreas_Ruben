@@ -1,0 +1,45 @@
+actors=`[
+    {
+        "id": "1",
+        "name": "Clive Owen",
+        "description": "Clive Owen is an English actor. He first gained recognition in the United Kingdom for playing the lead role in the ITV series Chancer from 1990 to 1991. He received critical acclaim for his work in the film Close My Eyes before earning international attention for his performance as a struggling writer in Croupier.",
+        "image": "clive.jpg"
+    },
+
+    {
+        "id": "2",
+        "name": "Morgan Freeman",
+        "description": "Morgan Freeman is an American actor and film narrator. Freeman won an Academy Award in 2005 for Best Supporting Actor with Million Dollar Baby and has received Oscar nominations for his performances in Street Smart, Driving Miss Daisy, The Shawshank Redemption and Invictus.",
+        "image": "morgan.jpg"
+    },
+        
+    {
+        "id": "3",
+        "name": "Sandra Oh",
+        "description": "Sandra Miju Oh is a Canadian-American actress. She is known for her roles as Cristina Yang on the ABC medical drama series Grey's Anatomy and Eve Polastri in the BBC America spy thriller series Killing Eve.",
+        "image": "sanda.jpg"
+    },
+    
+    {
+        "id": "4",
+        "name": "Soairse Ronan",
+        "description": "Saoirse Una Ronan is an Irish and American actress. Primarily noted for her roles in period dramas since adolescence, Ronan has received several awards including a Golden Globe Award and nominations for four Academy Awards and five British Academy Film Awards.",
+        "image": "ronan.jpg"
+    },
+
+    {
+        "id": "5",
+        "name": "Regina King",
+        "description": "Regina Rene King is an American actress and director. She is the recipient of various accolades, including an Academy Award, a Golden Globe Award, and three Primetime Emmy Awards. Time magazine named King one of the 100 most influential people in the world in 2019.",
+        "image": "regina.jpg"
+    },
+    
+    {
+        "id": "6",
+        "name": "Mahershala Ali",
+        "description": "DescriptionMahershala Ali is an American actor and rapper. He is the recipient of several accolades, including two Academy Awards and a Golden Globe Award. Time magazine named him one of the 100 most influential people in the world in 2019. ",
+        "image": "ali.jpg"
+    }
+
+
+]`
